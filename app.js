@@ -1,0 +1,1 @@
+var speech="i am a student i am reading class alim."
