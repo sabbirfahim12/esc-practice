@@ -13,3 +13,5 @@ console.log(result)
 //arokta  upay
 const result =numbers.map(x => x*x);
 console.log(result);
+//selected numbers 
+
