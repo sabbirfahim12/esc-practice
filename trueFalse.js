@@ -8,8 +8,8 @@
 
 //truthy
 //1.baki sob
-const name="fahim";
-if(name.length){
+const name='';
+if(name){
 console.log("conditin is right");
 
 }else{
